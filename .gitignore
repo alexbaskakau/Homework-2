@@ -1,6 +1,6 @@
 tmp/
-.DS_Store
-index.html_old
-*html_old
+*.DS_Store
+*.html_old
+
 *_backup
-Thumbs.db
+*.Thumbs.db
